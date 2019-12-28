@@ -29,6 +29,7 @@ end
     #binding.pry
 
 def list_of_directors(source)
+<<<<<<< HEAD
   #binding.pry
    
     index = 0
@@ -41,6 +42,15 @@ def list_of_directors(source)
     end
       director_list
   end
+=======
+  index = 0 
+    director_names =
+  
+    binding.pry
+
+  # Write this implementation
+end
+>>>>>>> b9b1828732b2bde6cad1b78e661b70da38ec17a1
 
 def total_gross(source)
    
